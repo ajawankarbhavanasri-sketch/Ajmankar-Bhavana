@@ -186,11 +186,11 @@ A real-time messaging application with authentication and live communication fea
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/ajawankarbhavanasri-sketch" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/ajmankar-bhavana-593a913a9" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
@@ -198,3 +198,4 @@ A real-time messaging application with authentication and live communication fea
 ---
 
 <h3 align="center">✨ “Building AI solutions one project at a time.” ✨</h3>
+
